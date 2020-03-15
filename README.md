@@ -8,3 +8,5 @@ Offenseval： 攻击性语言的识别与分类————NLP项目
 ImageNet: ImageNet图片集分类的神经网络训练    
     ImageNet.ipynb 源代码  
     AI Couserwork Report.pdf 实验报告  
+  
+Restful项目：https://github.com/RichardFishLiao/posts-management.git  
