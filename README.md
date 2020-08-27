@@ -10,3 +10,5 @@ ImageNet: ImageNet图片集分类的神经网络训练
     AI Couserwork Report.pdf 实验报告  
   
 Restful项目：https://github.com/RichardFishLiao/posts-management.git  
+
+毕业论文项目：https://www.kaggle.com/leoopenflying/comparison-of-deep-learning-with-machine-learning
